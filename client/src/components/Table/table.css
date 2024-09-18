@@ -1,0 +1,27 @@
+.table {
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #333;
+    margin: 5% auto;
+    max-width: 600px;
+  }
+  
+  .table td, .table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .table thead th{
+    background-color: #848484;
+  }
+  .table tr:nth-child(even){background-color: #1b1b1b;}
+  
+  .table tr:hover {background-color: #0e0e0e;}
+  
+  .table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: right;
+    color: white;
+  }
