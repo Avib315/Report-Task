@@ -1,6 +1,4 @@
 
-Memory updated
-Here's a more detailed description for your GitHub repository:
 
 Report Task - Built with .NET Core and React
 
