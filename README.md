@@ -12,7 +12,7 @@ RESTful API: A robust backend API developed with .NET Core for handling task and
 State Management: Utilizes React's state management for smooth user interactions.
 Technologies Used:
 Backend: .NET Core, Entity Framework Core, SQL Server
-Frontend: React, Ant Design for UI components
+Frontend: React, And Bootstrap 
 Database: SQL Server (with Code-First approach)
 API Integration: Axios for handling API requests
 Getting Started:
